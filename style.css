@@ -271,7 +271,7 @@
     border-radius: 5px;
     margin-left: 22px;
     margin-top: 1px;
-    margin-bottom: 1px;}
+    margin-bottom: 2px;}
     .services__list-item:hover {
       outline: 1px solid #41F6D7;
       background-color: #FFFFFF;
