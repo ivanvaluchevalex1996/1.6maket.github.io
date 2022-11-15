@@ -616,7 +616,10 @@
       flex-wrap: wrap;
       overflow: hidden; }
     .services__list-item {
-      margin-left: 22px; }
+      margin-left: 22px;
+      margin-top: 2px;
+      margin-bottom: 2px;
+  }
   .swiper {
     display: none; }
   .read-more {
